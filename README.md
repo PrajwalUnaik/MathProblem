@@ -21,4 +21,4 @@ Include screenshots or GIFs showcasing different features and aspects of your ap
 ### Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/quick-math-challenge.git
+   git clone https://github.com/PrajwalUnaik/MathProblem.git
